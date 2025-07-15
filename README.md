@@ -7,9 +7,13 @@ With help from AI to jumpstart your layout, you'll focus on structuring your con
 
 ## charity: water Brand Colors & Fonts
 
+<!--
+Students: Use these colors and fonts in your CSS to match the charity: water brand.
+-->
+
 ### Primary Colors:
-- Yellow:     `#FFC907`
-- Blue:       `#2E9DF7`
+- Yellow:     `#FFC907`   <!-- Main brand color -->
+- Blue:       `#2E9DF7`   <!-- Used for accents and links -->
 
 ### Secondary Colors:
 - Light Blue: `#8BD1CB`
@@ -20,5 +24,5 @@ With help from AI to jumpstart your layout, you'll focus on structuring your con
 - Pink:       `#F16061`
 
 ### Fonts:
-- Proxima Nova
-- Avenir
+- Proxima Nova, Avenir, Arial, sans-serif
+  <!-- If you don't have Proxima Nova or Avenir, use Arial or any sans-serif font in your CSS. Example: font-family: Arial, sans-serif; -->

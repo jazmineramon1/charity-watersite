@@ -76,6 +76,15 @@ section {
   text-shadow: 0 1px 4px rgba(0,0,0,0.12);
 }
 
+/* Make hero section images much smaller and add space between them */
+.hero-img {
+  width: 80px;      /* Make images small */
+  height: auto;     /* Keep the image's shape */
+  border-radius: 8px; /* Rounded corners for a friendly look */
+  margin: 8px;      /* Space between images */
+  box-shadow: 0 1px 4px rgba(46, 157, 247, 0.10); /* Soft shadow */
+}
+
 /* Story Section Styles */
 .story {
   background-color: #8BD1CB; /* Secondary Light Blue */
